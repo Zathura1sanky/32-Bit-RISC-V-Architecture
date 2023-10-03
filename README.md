@@ -60,8 +60,7 @@
 * [About the Project](#about-the-project)
   * [Project Structure](#project-structure)
 * [Tools Used](#tools-used)
-  * [iVerilog](#iVerilog)
-  * [GTKWave](#GTKWave)
+  * [VIVADO](#iVerilo)
 * [Getting Started](#getting-started)
 * [License](#license)
 
@@ -100,11 +99,7 @@ In this project we implement a 32-bit, RISC-V ISA based processor in verilog. Th
 
 ### [iVerilog](https://github.com/steveicarus/iverilog): 
 
-While there are many compilers for verilog present, not many of them are open source, and even fewer are robust, user-friendly and updated regularly. [Icarus Verilog](https://github.com/steveicarus/iverilog) checks all boxes and can be learnt easily with this really [helpful wiki](https://iverilog.fandom.com/wiki/Main_Page) setup for it.
-
-### [GTKWave](https://sourceforge.net/projects/gtkwave/files/):
-
-Another really powerful open source tool that was essential in building this project was [GTKWave](https://github.com/gtkwave/gtkwave). It helps to view vcd and other waveforms. Really important for debugging and understanding if dependencies of different signals are as described by you.
+A software suite produced by AMD (previously Xilinx) for synthesis and analysis of hardware description language (HDL) designs.
 
 
 
