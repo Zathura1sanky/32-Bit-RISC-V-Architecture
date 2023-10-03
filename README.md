@@ -60,7 +60,7 @@
 * [About the Project](#about-the-project)
   * [Project Structure](#project-structure)
 * [Tools Used](#tools-used)
-  * [VIVADO](#iVerilo)
+  * [VIVADO](#VIVADO)
 * [Getting Started](#getting-started)
 * [License](#license)
 
@@ -97,7 +97,7 @@ In this project we implement a 32-bit, RISC-V ISA based processor in verilog. Th
 
 ## Tools Used
 
-### [iVerilog](https://github.com/steveicarus/iverilog): 
+### [VIVADO): 
 
 A software suite produced by AMD (previously Xilinx) for synthesis and analysis of hardware description language (HDL) designs.
 
