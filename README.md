@@ -179,7 +179,7 @@ Contributions are what make the open source community such an amazing place to b
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
-Project Link: [https://github.com/ash-olakangal/RISC-V-Processor](https://github.com/ash-olakangal/RISC-V-Processor)
+Project Link: [https://github.com/ash-olakangal/RISC-V-Processor](https://github.com/Zathura1sanky/32-Bit-RISC-V-Architecture)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
