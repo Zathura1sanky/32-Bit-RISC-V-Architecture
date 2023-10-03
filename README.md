@@ -97,7 +97,7 @@ In this project we implement a 32-bit, RISC-V ISA based processor in verilog. Th
 
 ## Tools Used
 
-### [VIVADO): 
+### VIVADO: 
 
 A software suite produced by AMD (previously Xilinx) for synthesis and analysis of hardware description language (HDL) designs.
 
